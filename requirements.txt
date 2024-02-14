@@ -1,0 +1,7 @@
+requests
+pandas
+bs4
+thefuzz
+numpy
+sklearn
+matplotlib
